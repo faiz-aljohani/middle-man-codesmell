@@ -1,4 +1,4 @@
-// https://blog.devgenius.io/code-smell-67-middle-man-cb07d8307d1c
+// https://blog.devgenius.io/code-smell-67-middle-man-cb07d8307d1c analysis
 public class Client {
     Address address;
     public ZipCode zipCode() {
